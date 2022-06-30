@@ -1,3 +1,3 @@
 ## Calculadora-JS
-*Calculadora em javascript*
-Usando getElementById
+**Calculadora em javascript**
+
